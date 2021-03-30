@@ -1,2 +1,2 @@
 # KivyMonitor
-![image](https://raw.githubusercontent.com/SneakyWizard/KivyMonitor/master/activemon-screenshot.png)
+![image](https://github.com/SneakyWizard/PythonKivyMonitor/blob/master/activemon-screenshot.png)
